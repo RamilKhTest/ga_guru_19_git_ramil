@@ -4,9 +4,9 @@ public class Main {
 
 
     public static void main (String[] args) {
-        System.out.println(message());
+        System.out.println(messageSecond());
         }
-    public static String message() {
-        return "Hello teacher!!!!";
+    public static String messageSecond() {
+        return "Hello teacher!!!! Second";
     }
 }
